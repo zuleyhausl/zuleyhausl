@@ -1,7 +1,7 @@
 ## 👩‍💻 Züleyha Uslu
 
 🎓 Mathematical Engineering — Yıldız Technical University  
-🔭 Interested in AI, signal processing and creative applications of machine learning.  
+🔭 Building AI-powered applications — ML pipelines, NLP, LLMs and data-driven systems.  
 📬 zuleyhausl@gmail.com
 
 ---
